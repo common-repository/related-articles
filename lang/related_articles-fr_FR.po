@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-08T08:45:37+00:00\n"
+"Last-Translator: SedLex <http://www.sedlex.fr/>\n"
+"Last-Translator: PigeotCarl <http://www.frichtiweb.com>\n"
+"Last-Translator: Julien <j_troxler@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: France\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "General appearance options"
+msgstr "Options d&#039;affichage générales"
+
+msgid "The number of related posts to display in each post:"
+msgstr "Le nombre de post relatif à afficher dans chaque post"
+
+msgid "The list of type of posts where the related posts are displayed:"
+msgstr "La liste des types de posts où sont affichés les posts relatifs"
+
+msgid "It is a coma separated list. The default value is:"
+msgstr "Il s&#039;agit d&#039;un fichier CSV. La valeur par défaut est"
+
+msgid "Display in excerpt:"
+msgstr "Afficher dans le résumé"
+
+msgid "Advanced appearance options"
+msgstr "Options d&#039;affichage avancées"
+
+msgid "HTML:"
+msgstr "HTML :"
+
+msgid "Please note that %s stands for a list of related posts. The default value of the HTML is:"
+msgstr ""
+
+msgid "Please note that %s stands for a list of related posts with their featured images or their first images."
+msgstr ""
+
+msgid "The default value of the HTML is:"
+msgstr "La valeur HTML par défaut est :"
+
+msgid "Width of the thumbnail image if you choose to display the featured image (see above):"
+msgstr "Largeur de l&#039;image miniature si vous choisissez d&#039;afficher l&#039;image à la une ( voir ci-dessus)"
+
+msgid "The CSS will be modified."
+msgstr "Le code CSS sera modifié"
+
+msgid "Height of the thumbnail image if you choose to display the featured image (see above):"
+msgstr "Hauteur de l&#039;image miniature si vous choisissez d&#039;afficher l&#039;image A la une"
+
+msgid "Make the featured images clickable:"
+msgstr "Faire en sorte que l&#039;image A la une soit cliquable"
+
+msgid "CSS:"
+msgstr "CSS :"
+
+msgid "The default value of the CSS is:"
+msgstr "La valeur CSS par défaut est :"
+
+msgid "Choose the default image to be displayed when no image is found:"
+msgstr "Choisir l&#039;image par défaut à afficher lorsqu&#039;aucune image n&#039;a été trouvée:"
+
+msgid "Advanced options"
+msgstr "Options avancées"
+
+msgid "Show the score in articles and for the logged users:"
+msgstr "Montre l&#039;indice de pertinence (score) dans les articles et pour les utilisateur connectés"
+
+msgid "What are the different types of posts you want to look for:"
+msgstr "Quels sont les différents types de posts que vous souhaitez rechercher / voir"
+
+msgid "Computation of the proximity score"
+msgstr "Calcul de l&#039;indice de pertinence"
+
+msgid "The number of words used to compare posts:"
+msgstr "Nombre de mots utilisés pour comparer les posts"
+
+msgid "The weight of the content:"
+msgstr "Poids du contenu"
+
+msgid "The weight of the title:"
+msgstr "Poids du titre"
+
+msgid "The weight of the categories:"
+msgstr "Poids des catégories"
+
+msgid "The weight of the keywords:"
+msgstr "Poids des mots-clés"
+
+msgid "For now, your have %s published articles (i.e. %s)."
+msgstr "Pour le moment, vous avez publié %s articles (i.e. %s)."
+
+msgid "%s articles have their keywords cached."
+msgstr "%s articles ont leurs mots clés cachés"
+
+msgid "%s articles have similar posts cached."
+msgstr "%s articles ont leurs posts similaires cachés"
+
+msgid "In the following table, you will find some examples of related posts that may be displayed."
+msgstr "Dans la table suite, vous trouverez quelques exemples de posts similaires qui pourrait être affichés."
+
+msgid "Please note that the presented examples are randomly selected. Refresh the page to change the examples."
+msgstr "Notez s&#039;il vous plait que les exemples présentés sont sélectionnés aléatoirement. Rafraichissez la page pour changer les exemples."
+
+msgid "Title of the post"
+msgstr "Nom du post"
+
+msgid "Extracted words"
+msgstr "Mots extraits"
+
+msgid "Related posts"
+msgstr "Posts relatifs"
+
+msgid "Examples"
+msgstr "Exemple"
+
+msgid "This plugin enables the display of a number of related posts in each post."
+msgstr "Ce plugin permet d&#039;afficher un nombre donné d&#039;article similaire dans chaque post"
+
+msgid "Purpose of that plugin"
+msgstr "Objectif de ce plugin"
+
+msgid "This plugin only compute a proximity score between each page/post and score the pages/posts with the hightest score."
+msgstr "Ce plugin calcule seulement un indice de pertinence entre chaque page/post et note the pages/posts avec le plus haute score."
+
+msgid "The score is based on the title of the post, the content of the post, the category associated with the post and the keywords."
+msgstr "L&#039;indice de pertinence est calculé sur la base du titre du post, du contenu, de la categorie associée et des mots clés"
+
+msgid "How it works?"
+msgstr "Comment çà marche"
+
+msgid "How To"
+msgstr "Comment faire ?"
+
+msgid "Parameters"
+msgstr "Paramètres"
+
+msgid "Manage translations"
+msgstr "Gérer les traductions"
+
+msgid "Give feedback"
+msgstr "Envoyer un commentaire"
+
+msgid "Other plugins"
+msgstr "Autres plugins"
+
